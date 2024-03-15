@@ -1,0 +1,13 @@
+				@font-face {
+					font-family: 'akkurat';
+					src: url('/petronas/wp-content/uploads/useanyfont/537akkurat.woff2') format('woff2'),
+						url('/petronas/wp-content/uploads/useanyfont/537akkurat.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.akkurat{font-family: 'akkurat' !important;}
+
+						body{
+					font-family: 'akkurat' !important;
+				}
+		
